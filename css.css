@@ -1,0 +1,86 @@
+* {
+    color: white;
+    font-family: "Roboto", sans-serif;
+}
+
+body {
+    background: #181818;
+}
+
+#search {
+    display: block;
+    border: none;
+    background: rgba(255, 255, 255, .5);
+    border-radius: 10px;
+    padding: 20px;
+    color: black;
+    outline: none;
+    width: 93%;
+    font-size: 16px;
+}
+
+#block {
+    display: block;
+    border: none;
+    margin-top: 0px;
+    background: rgba(255, 255, 255, .5);
+    border-radius: 10px;
+    padding: 20px;
+    color: black;
+    outline: none;
+    width: 97%;
+    font-size: 30px;
+}
+
+#nb {
+    display: block;
+    border: none;
+    margin-top: 20px;
+    background: rgba(255, 255, 255, .5);
+    border-radius: 10px;
+    padding: 20px;
+    color: white;
+    outline: none;
+    width: 74%;
+    font-size: 16px;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+#nb:hover {
+    opacity: .9;
+}
+
+#title {
+    margin-right: 25px;
+}
+
+#logo {
+   margin-left: 25px;
+}
+
+#sb {
+    display: block;
+    border: none;
+    margin-top: 0px;
+    background: rgba(255, 255, 255, .5);
+    border-radius: 10px;
+    padding: 12px;
+    color: white;
+    outline: none;
+    width: 65%;
+    margin-left: 35px;
+}
+
+#sb:hover {
+    opacity: .9;
+}
+
+#footer {
+    position: fixed; /* Фиксированное положение */
+    left: 0; bottom: 0; /* Левый нижний угол */
+    padding: 20px; /* Поля вокруг текста */
+    background: #202020; /* Цвет фона */
+    color: #fff; /* Цвет текста */
+    width: 100%; /* Ширина слоя */
+   }
