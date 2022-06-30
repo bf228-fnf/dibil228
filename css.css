@@ -122,3 +122,7 @@ body {
     margin-right: 15px;
     text-decoration: none;
 }
+
+#abc:hover {
+    opacity: .9;
+}
