@@ -9,19 +9,6 @@ body {
     margin-right: 20px;
 }
 
-#search {
-    margin-top: -9px;
-    display: block;
-    border: none;
-    background: rgba(255, 255, 255, .5);
-    border-radius: 10px;
-    padding: 20px;
-    color: black;
-    outline: none;
-    width: 93%;
-    font-size: 16px;
-}
-
 #block {
     display: block;
     border: none;
@@ -40,7 +27,7 @@ body {
     border: none;
     margin-top: 9px;
     background: rgba(255, 255, 255, .5);
-    border-radius: 10px;
+    border-radius: 15px;
     padding: 20px;
     color: white;
     outline: none;
@@ -64,22 +51,6 @@ body {
    margin-left: 15px;
 }
 
-#sb {
-    display: block;
-    border: none;
-    margin-top: -9px;
-    background: rgba(255, 255, 255, .5);
-    border-radius: 10px;
-    padding: 12px;
-    color: white;
-    outline: none;
-    margin-left: 35px;
-}
-
-#sb:hover {
-    opacity: .9;
-}
-
 #footer {
     position: fixed;
     left: 0; bottom: 0;
@@ -95,7 +66,7 @@ body {
     border: none;
     margin-top: 0px;
     background: rgba(255, 255, 255, .5);
-    border-radius: 10px 10px 0 0;
+    border-radius: 15px 15px 0 0;
     padding: 20px;
     padding-bottom: 30px;
     color: white;
@@ -111,7 +82,7 @@ body {
     border: none;
     margin-top: 0px;
     background: rgba(255, 255, 255, .2);
-    border-radius: 10px 10px 0 0;
+    border-radius: 15px 15px 0 0;
     padding: 20px;
     padding-bottom: 30px;
     color: white;
